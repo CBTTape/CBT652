@@ -1,0 +1,16 @@
+2023-04-03 01:43:07.636232 - Initialized conversion of CBT652
+2023-04-03 01:43:07.726022 - Received CBT.V504.FILE652.PDS from FILE652.XMI 
+2023-04-03 01:43:07.728915 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:43:07.730143 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/$$$DOC
+2023-04-03 01:43:07.731300 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/$$NOTE1
+2023-04-03 01:43:07.732399 - Found @FILE652.txt (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/@FILE652
+2023-04-03 01:43:07.733539 - Found ASMFIND.txt (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/ASMFIND
+2023-04-03 01:43:07.734572 - Found FIND.rexx (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/FIND
+2023-04-03 01:43:07.735543 - Found FINDREQ.txt (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/FINDREQ
+2023-04-03 01:43:07.736539 - Found FIND01.txt (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/FIND01
+2023-04-03 01:43:07.737485 - Found FIND02.txt (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/FIND02
+2023-04-03 01:43:07.738383 - Found FIND03.txt (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/FIND03
+2023-04-03 01:43:07.739323 - Found FIND2.rexx (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/FIND2
+2023-04-03 01:43:07.740267 - Found REGEQU.txt (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/REGEQU
+2023-04-03 01:43:07.741192 - Found UPDATE.rexx (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/UPDATE
+2023-04-03 01:43:07.742123 - Found UPDDATE2.rexx (text/plain) in CBT.V504.FILE652.PDS, moved to PDS/UPDDATE2
